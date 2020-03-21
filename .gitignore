@@ -122,5 +122,9 @@ TODO
 checkpoint
 run.sh
 
+# traind model and result
+ckpt
+result
+
 # swap file
 *.swp
